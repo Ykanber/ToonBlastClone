@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - Duck
+  - Balloon
+  - Ground
+  - Rocket
+  - MovingToGoalBox
+  - Goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MovingToGoalBox
+  - GamePieces
+  - Ground
+  - Rockets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1334020025
+    locked: 0
+  - name: GamePieces
+    uniqueID: 1964657343
+    locked: 0
+  - name: Rocket
+    uniqueID: 1632602907
+    locked: 0
+  - name: TopandBottomUI
+    uniqueID: 2899160887
+    locked: 0
+  - name: GoalBoxes
+    uniqueID: 1824174373
+    locked: 0
